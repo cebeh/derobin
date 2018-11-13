@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ESP32-footprints-Lib)(type KiCad)(uri ${KIPRJMOD}/modules/ESP32-footprints-Lib.pretty)(options "")(descr ""))
+  (lib (name pin_array_2x9)(type Legacy)(uri ${KIPRJMOD}/modules/pin_array_2x9.mod)(options "")(descr ""))
+)

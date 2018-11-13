@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ESP32-footprints-Shem-Lib)(type Legacy)(uri ${KIPRJMOD}/library/ESP32-footprints-Shem-Lib.lib)(options "")(descr ""))
+  (lib (name AudioNew)(type Legacy)(uri ${KIPRJMOD}/library/AudioNew.lib)(options "")(descr ""))
+)

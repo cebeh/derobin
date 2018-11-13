@@ -1,0 +1,9 @@
+[submodule "src/components/ESP8266Audio"]
+	path = src/components/ESP8266Audio
+	url = https://github.com/earlephilhower/ESP8266Audio.git
+[submodule "src/components/ESP8266_Spiram"]
+	path = src/components/ESP8266_Spiram
+	url = https://github.com/earlephilhower/ESP8266_Spiram.git
+[submodule "src/components/arduino-esp32"]
+	path = src/components/arduino-esp32
+	url = https://github.com/espressif/arduino-esp32.git
